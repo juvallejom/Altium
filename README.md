@@ -19,7 +19,7 @@ p, l ---- shortcut para linea +.
 
 
 
-Skematic 
+<h2>Skematic </h2>
 tool - neew componente 
 La cracion de lineas es la misma que kica
 
