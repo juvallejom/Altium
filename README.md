@@ -126,4 +126,9 @@ Inicio de ALtium
 Tipos de Pines Input I . Output O I/O Bidirecciianl
 Puertos y referencia de puertos 
 Customizacion de Altium
+Shortcuts 
+[Altium Shortcut ](https://www.altium.com/documentation/altium-designer/shortcut-keys)
 
+
+
+Clase de 04/05/2023
