@@ -142,5 +142,35 @@ En interntet Octopart, se peuen buscar disponibilidad de componentes electronico
 
 Desde el teimpo 1:15 hay una forma de generar un nuevo bus de infromacion por otras opciones. Valdra la pena repasar esto si en algun momento necesito otras opciones 
 
+Para añadir librerias se abre el menu de la barra derecha que dice componentes y en las tres lineas se da filled based-componentes preferences. Se añade el archivo ,lib y queda.
+
+El tab funciona como una especie de pausa de aoperacion o pausa de comando para poder editar el comando que se queire realziar.
+
+
+Altium tiene distinas formas de colocar el esquematico de un componente. Por ende , si se quiere seleccionar que tipo de configuración se usa el tab y se selecciona la opcipn.
+Hay varuas configuraciones como lo son la fisica, la division por funcionalidad de los pines ( seññales, entradas, alimeantaciones) etc
+ 
 
 EStuair Interfaces de comunicacion 
+
+Clase de 09/05/2023
+
+
+Creacion de biblioteca de componentes
+
+Igual que kicad
+
+
+Thermal RElief  investigar sobre este efectok 
+
+REvisar este vieo la verdad no puse demasiada atencuon se hizo una confugracuin de grilla
+
+
+
+Clase 11/05/2023
+
+Esqueematico multicanal 
+ERC  Electrical Rules Check 
+Creaacion del esquematico del proyecto 
+
+
