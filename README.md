@@ -36,6 +36,9 @@ cable p - w
 tools -- anotation -- anotation schematic --  update change list - ok - acceot changes list  - execute changes - close x2
 
 
+
+<h2>Foortprint</h2>
+
 Foor print similar a KICAd
 
 
