@@ -132,3 +132,12 @@ Shortcuts
 
 
 Clase de 04/05/2023
+
+Smart Pase -- muy importante
+cTRL+SHIFT+V
+
+Panel de busqueda de elementps - Manufacturer Part Search
+En interntet Octopart, se peuen buscar disponibilidad de componentes electronicos disponibles pra la compra 
+
+
+EStuair Interfaces de comunicacion 
