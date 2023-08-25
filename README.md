@@ -140,4 +140,7 @@ Panel de busqueda de elementps - Manufacturer Part Search
 En interntet Octopart, se peuen buscar disponibilidad de componentes electronicos disponibles pra la compra 
 
 
+Desde el teimpo 1:15 hay una forma de generar un nuevo bus de infromacion por otras opciones. Valdra la pena repasar esto si en algun momento necesito otras opciones 
+
+
 EStuair Interfaces de comunicacion 
