@@ -108,7 +108,22 @@ eFabricarion outpus ---- drill ocuemtn
 
 Video 12 Genrar pdf 3d
 
+
+
+<h2>Curso Basico FAC Altium </h2>
+
+
+
+
 Se da en doducment generator 
 
-
+Clase de 4/27/2023
 Normativa IPC para documentos electronicos
+Materuales 
+
+Clase de 02/05/2023 
+Inicio de ALtium 
+Tipos de Pines Input I . Output O I/O Bidirecciianl
+Puertos y referencia de puertos 
+Customizacion de Altium
+
