@@ -35,7 +35,7 @@ cable p - w
 
 tools -- anotation -- anotation schematic --  update change list - ok - acceot changes list  - execute changes - close x2
 
-Place sheet symbol para añadir las secciones verdes 
+Place sheet symbol para añadir las secciones verdes .. Para cgen
 
 <h2>Foortprint</h2>
 
