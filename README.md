@@ -169,8 +169,79 @@ REvisar este vieo la verdad no puse demasiada atencuon se hizo una confugracuin 
 
 Clase 11/05/2023
 
+ESquematicos Jerarquicos 
+
 Esqueematico multicanal 
 ERC  Electrical Rules Check 
 Creaacion del esquematico del proyecto 
 
 
+Clase 16/05/2023
+
+
+Herramienta  para la asignacion de designadores  de referencia 
+
+
+Designador ( Letra+ numero)
+Para realizar la designacion en de los componentes de manera atutomatica   Tools  ---- Annotation --- Anotate Schematic 
+Priomera meddia hora del videdo es sobre asignacion hasta el minuto 38
+En tools --- Annotatio -- Number Schematic Sheets .... Para definir el orden de designacion de omponenes en caso que se tengana varios esquematicos 
+
+
+Tools --- Annotation --- Board Level Annotation 
+
+Verificacion ERC
+
+
+
+Creacion de la PCB 
+
+
+
+//// PC/104 es un estandar para montaje de sistemas embebios -- vale la pena darle una revisada
+
+Exportar componnentes --- En el esquematico Desing --update PCB Document ...
+
+
+En el entorno de la PCB para ver las lineas de econexion ctrl + clicl izquierdo sobre el pin 
+
+
+IMPORTANTE ---  ESQUEMATICOS EL PROYECTO AL TIEMPO 1:36:01 
+
+
+
+Clase 18/05/2023 
+
+
+No hay nada 
+
+
+Clase 23/05/2023
+
+
+Diseño multicanal 
+
+Parte incial del curso habla de una configuracion para mejorar la veisualizacion 
+
+Mas o menos en la mitad de etse video muestran como tener una ventana separada para tenrr esquemtico y pcb unidos 
+
+
+Place -- Fill para generar zonas 
+
+
+Al generar archivos por jerarquia se generar boards en la pcb . Para poder mover los componentes ascociados  a la board se usa Tools - Componente Placemean - Arrange Within Room 
+
+Navegacion 
+ 
+
+
+Clase 25/05/2023
+
+
+Para verficiar erroes en los esquematicos darle ala pcB y luego la primera opcion --- referencia 18:57 min
+
+
+Clase   30/05/2023
+
+Simulacion SPICE en altium ddesinger
+Generacion de archivos de farbicacion 
